@@ -54,4 +54,4 @@
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/topalemirfaruk/topalemirfaruk/output/github-contribution-grid-snake.svg)/blob/output/github-contribution-grid-snake.g
+![Snake animation](https://raw.githubusercontent.com/topalemirfaruk/topalemirfaruk/output/github-contribution-grid-snake.svg)
