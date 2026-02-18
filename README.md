@@ -32,5 +32,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,python,js,ts,nodejs,express,react,tailwind,mysql,postgres,redis,php,electron" />
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react-native"/>
 </p>
