@@ -31,5 +31,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,python,js,ts,nodejs,express,react,tailwind,mysql" />
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,python,js,ts,nodejs,express,react,reactnative,electron,tailwind,mysql,postgres,redis,php" />
 </p>
